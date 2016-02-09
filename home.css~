@@ -32,3 +32,13 @@ p#boy{
 	padding-left: 2em;
 }
 
+
+p#title{
+	font-family: 'Bitter', sans-serif;
+	font-size:5em;
+	line-height:1em;
+	margin-top:.5em;
+	text-align: center;
+	color: white;
+}
+
