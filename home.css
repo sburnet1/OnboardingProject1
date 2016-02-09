@@ -62,3 +62,15 @@ p#greeting{
 		margin-right: auto;
 		color: white;
 }
+
+p#response{
+
+		font-family: 'Arvo', sans-serif;
+		font-size:1.2em;
+		line-height:1.5em;
+		width:50%;
+		margin-left:auto;
+		margin-right: auto;
+		color: white;
+}
+
