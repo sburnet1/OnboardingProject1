@@ -15,8 +15,7 @@
 <hr>
 
 
-	<p id="greeting">	Family and Friends;</p><p id="content"> We are asking that anyone and everyone interested in 		attending or contributing to our first baby shower sign up via e-mail to recieve time, date, location, and more information 	regarding our event.</p> <p id="content"> We are handling RSVP's this way to protect our very special event from random 		people.</p> <p id="content"> Thank you so much for being interested in our special day! 
-			</p> 
+	<p id="greeting">	Family and Friends;</p><p id="content"> We are asking that anyone and everyone interested in attending or contributing to our first baby shower sign up via e-mail to recieve time, date, location, and more information 	regarding our event.</p>  We are handling RSVP's this way to protect our very special event from random people.</p>  Thank you so much for being interested in our special day!  
 <section id="signup">
                 <div class="container">
                     <div class="flex">
